@@ -31,15 +31,6 @@ $ cat about.txt
 
 ---
 
-<!-- Stats -->
-<div align="center">
-
-
-
-</div>
-
----
-
 <!-- Skills -->
 ### `> ls skills/`
 

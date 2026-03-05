@@ -122,17 +122,6 @@ String[]  tools      = { "Git", "Postman", "IntelliJ IDEA", "VS Code", "Linux Te
 
 ---
 
-<!-- Activity Graph -->
-<div align="center">
-
-### `> git log --graph --all`
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=domkh12&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 <!-- Snake -->
 <div align="center">
 
@@ -149,10 +138,7 @@ String[]  tools      = { "Git", "Postman", "IntelliJ IDEA", "VS Code", "Linux Te
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/domkh12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/yourprofile)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00FF41)](https://t.me/yourusername)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:your@email.com)
 
 </div>
 

@@ -112,7 +112,7 @@ String[]  tools      = { "Git", "Postman", "IntelliJ IDEA", "VS Code", "Linux Te
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00FF41)](https://t.me/yourusername)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00FF41)](https://t.me/eichanudom)
 
 </div>
 

@@ -34,11 +34,7 @@ $ cat about.txt
 <!-- Stats -->
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=domkh12&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=domkh12&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=domkh12&theme=matrix&hide_border=true&background=000000&fire=00FF41&ring=00FF41&currStreakLabel=00FF41)
 
 </div>
 

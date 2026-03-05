@@ -10,7 +10,7 @@
 ╚═════╝  ╚═════╝ ╚═╝     ╚═╝     ╚═════╝ ╚══════╝  ╚═══╝  
 ```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%92%BB;I+am+DOM_DEV;Full+Stack+Developer;Always+learning%2C+always+building;%24+whoami+%3E+DOM_DEV)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=700&lines=Hello%2C+World!+%F0%9F%92%BB;I+am+DOM_DEV;Full+Stack+Developer;Spring+Boot+%2B+React+JS;Docker+%7C+VPS+%7C+REST+API;%24+whoami+%3E+DOM_DEV)
 
 </div>
 
@@ -19,13 +19,14 @@
 <!-- About -->
 ```bash
 $ whoami
-> DOM_DEV | Full Stack Developer | Bug Hunter | Coffee Addict ☕
+> DOM_DEV | Full Stack Developer | API Architect | Coffee Addict ☕
 
 $ cat about.txt
 > Location  : 🌏 Earth
 > Status    : Always coding...
-> Focus     : Building cool stuff
-> Hobbies   : CTF | Open Source | Late night commits
+> Focus     : Spring Boot APIs + React JS Frontends
+> Deploy    : Docker 🐳 on VPS Servers
+> Hobbies   : Open Source | System Design | Late night commits
 ```
 
 ---
@@ -48,13 +49,75 @@ $ cat about.txt
 <!-- Skills -->
 ### `> ls skills/`
 
-```python
-languages   = ["JavaScript", "Python", "Java", "C++", "SQL"]
-frontend    = ["React", "HTML/CSS", "TailwindCSS", "Next.js"]
-backend     = ["Node.js", "Express", "Spring Boot", "FastAPI"]
-databases   = ["PostgreSQL", "MongoDB", "Redis", "MySQL"]
-devops      = ["Docker", "Linux", "Git", "CI/CD", "AWS"]
-tools       = ["VS Code", "Postman", "Figma", "Vim"]
+```java
+// === BACKEND ===
+String[]  backend    = { "Spring Boot", "Spring Security", "Spring JPA", "REST API", "JWT Auth" };
+String[]  languages  = { "Java", "JavaScript", "SQL" };
+
+// === FRONTEND ===
+String[]  frontend   = { "React JS", "Vite", "TailwindCSS", "Axios", "Redux" };
+
+// === DATABASE ===
+String[]  databases  = { "PostgreSQL", "MySQL", "MongoDB", "Redis" };
+
+// === DEVOPS & INFRA ===
+String[]  devops     = { "Docker", "Docker Compose", "VPS (Linux)", "Nginx", "CI/CD" };
+
+// === TOOLS ===
+String[]  tools      = { "Git", "Postman", "IntelliJ IDEA", "VS Code", "Linux Terminal" };
+```
+
+---
+
+<!-- Tech Badges -->
+<div align="center">
+
+### `> cat tech_stack.json`
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=00FF41)
+![React](https://img.shields.io/badge/React_JS-000000?style=for-the-badge&logo=react&logoColor=00FF41)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=00FF41)
+![Linux](https://img.shields.io/badge/VPS_Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=00FF41)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FF41)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
+
+</div>
+
+---
+
+<!-- Architecture -->
+### `> cat architecture.txt`
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                     VPS SERVER                          │
+│                                                         │
+│   ┌─────────────┐      ┌──────────────────────────┐    │
+│   │   Nginx     │─────▶│     Docker Container      │    │
+│   │ (Reverse    │      │  ┌────────┐ ┌──────────┐  │    │
+│   │  Proxy)     │      │  │ React  │ │  Spring  │  │    │
+│   └─────────────┘      │  │  JS    │ │   Boot   │  │    │
+│                        │  │ :3000  │ │  :8080   │  │    │
+│                        │  └────────┘ └────┬─────┘  │    │
+│                        └───────────────── │ ───────┘    │
+│                                           │              │
+│   ┌───────────────────────────────────────▼──────────┐  │
+│   │              REST API  /api/v1/...                │  │
+│   └───────────────────────────────────────────────────┘  │
+│                           │                              │
+│         ┌─────────────────┼──────────────┐              │
+│         ▼                 ▼              ▼              │
+│   ┌──────────┐    ┌──────────┐   ┌──────────┐          │
+│   │PostgreSQL│    │  Redis   │   │ MongoDB  │          │
+│   └──────────┘    └──────────┘   └──────────┘          │
+└─────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -98,7 +161,7 @@ tools       = ["VS Code", "Postman", "Figma", "Vim"]
 <div align="center">
 
 ```
-> "First, solve the problem. Then, write the code." – John Johnson
+> "Build the API. Ship the container. Own the server." – DOM_DEV
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=domkh12&color=00ff41&style=flat-square&label=VISITORS)

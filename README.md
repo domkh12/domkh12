@@ -34,8 +34,6 @@ $ cat about.txt
 <!-- Stats -->
 <div align="center">
 
-### `> system_stats --user domkh12`
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=domkh12&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=domkh12&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41)
@@ -119,17 +117,6 @@ String[]  tools      = { "Git", "Postman", "IntelliJ IDEA", "VS Code", "Linux Te
 │   └──────────┘    └──────────┘   └──────────┘          │
 └─────────────────────────────────────────────────────────┘
 ```
-
----
-
-<!-- Snake -->
-<div align="center">
-
-### `> watch -n 1 snake --eat-commits`
-
-![Snake animation](https://github.com/domkh12/domkh12/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 

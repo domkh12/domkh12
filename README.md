@@ -2,15 +2,15 @@
 <div align="center">
 
 ```
-██████╗  ██████╗ ███╗   ███╗██╗  ██╗██╗  ██╗ ██╗██████╗ 
-██╔══██╗██╔═══██╗████╗ ████║██║ ██╔╝██║  ██║███║╚════██╗
-██║  ██║██║   ██║██╔████╔██║█████╔╝ ███████║╚██║ █████╔╝
-██║  ██║██║   ██║██║╚██╔╝██║██╔═██╗ ╚════██║ ██║██╔═══╝ 
-██████╔╝╚██████╔╝██║ ╚═╝ ██║██║  ██╗      ██║ ██║███████╗
-╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝      ╚═╝ ╚═╝╚══════╝
+██████╗  ██████╗ ███╗   ███╗     ██████╗ ███████╗██╗   ██╗
+██╔══██╗██╔═══██╗████╗ ████║     ██╔══██╗██╔════╝██║   ██║
+██║  ██║██║   ██║██╔████╔██║     ██║  ██║█████╗  ██║   ██║
+██║  ██║██║   ██║██║╚██╔╝██║     ██║  ██║██╔══╝  ╚██╗ ██╔╝
+██████╔╝╚██████╔╝██║ ╚═╝ ██║     ██████╔╝███████╗ ╚████╔╝ 
+╚═════╝  ╚═════╝ ╚═╝     ╚═╝     ╚═════╝ ╚══════╝  ╚═══╝  
 ```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%92%BB;Full+Stack+Developer;Always+learning%2C+always+building;%24+whoami+%3E+developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%92%BB;I+am+DOM_DEV;Full+Stack+Developer;Always+learning%2C+always+building;%24+whoami+%3E+DOM_DEV)
 
 </div>
 
@@ -19,7 +19,7 @@
 <!-- About -->
 ```bash
 $ whoami
-> domkh12 | Full Stack Developer | Bug Hunter | Coffee Addict ☕
+> DOM_DEV | Full Stack Developer | Bug Hunter | Coffee Addict ☕
 
 $ cat about.txt
 > Location  : 🌏 Earth
